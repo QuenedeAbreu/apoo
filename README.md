@@ -8,4 +8,7 @@
 * Alunos: [José Quenede Abreu de Oliveira](https://www.facebook.com/quenede.abreu "Facebook Quenede Abreu") (6ºPeríodo - Sistemas de Informação)<br/>
 			[Donizete Dos Santos Furtado](https://www.facebook.com/donizete.furtado "Facebook Donizete Furtada") (6ºPeríodo - Sistemas de Informação)
 			
-![](https://www.uninorteac.edu.br/static/images/ic-logo.png)
+
+![ic-logo](https://user-images.githubusercontent.com/39633455/77011073-108dc400-6939-11ea-889c-cb64a831a74a.png)
+
+
