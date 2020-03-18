@@ -5,5 +5,5 @@
 
 * Nesse repositorio se encontra todos os digramas proposto para o jogo de dados (https://github.com/QuenedeAbreu/JogoDeDados).
 
-* Alunos: José Quenede Abreu de Oliveira (6ºPeríodo - Sistemas de Informação)
+* Alunos: José Quenede Abreu de Oliveira (6ºPeríodo - Sistemas de Informação)<br/>
 			Donizete Dos Santos Furtado (6ºPeríodo - Sistemas de Informação)
