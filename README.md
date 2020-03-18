@@ -1,6 +1,6 @@
 # Diagramas do Jogo de Dados
 
-* Estes diagrama são parte do trabalho proposto pelo professor Jair Figueiredo para a obter nota na materia de POO. UNINORTEAC
+* Estes diagramas são parte do trabalho proposto pelo professor Jair Figueiredo para a obter nota na materia de POO. UNINORTEAC
 
 
 * Nesse repositorio se encontra todos os digramas proposto para o [jogo de dados](https://github.com/QuenedeAbreu/JogoDeDados).
